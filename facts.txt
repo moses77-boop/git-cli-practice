@@ -4,3 +4,5 @@ using git can be very complicated for me.
 It's quiet difficult handling commits using terminal
 practice makes perfect, so maybe more practicing may help.
 who knows? 
+Using git needs better understanding
+
