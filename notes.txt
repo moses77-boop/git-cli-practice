@@ -1,0 +1,5 @@
+Git in the terminal
+
+I'm learning how to use Git from the command line.
+It's going well so far.
+
